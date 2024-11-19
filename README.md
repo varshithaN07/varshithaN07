@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-- 🔭 I’m currently working on Python and BigData
-- 🌱 I’m currently learning PySharp and Kafka
-- 🤔 I’m looking for help with OOPS through Java
-- 💬 Ask me about JavaScript, C, Java
-
+I’m currently pursuing my masters in Applied Computer Science.
+HTML, CSS, JAVA through OOPS, Python, Swift.
+I love exploring new technologies and finding ways to use them creatively.
